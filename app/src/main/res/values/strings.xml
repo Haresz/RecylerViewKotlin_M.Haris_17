@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecylerViewKotlin_M.Haris_17</string>
+    <string name="heroes_name">Superhero_name</string>
+    <string name="description">Description</string>
+</resources>
